@@ -1,2 +1,2 @@
 # datasciencecoursera
-Project requirement 2
+Hi there! I have created a repo called "datasciencecoursera"
